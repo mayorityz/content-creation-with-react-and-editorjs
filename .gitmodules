@@ -1,0 +1,3 @@
+[submodule "server-side"]
+	path = server-side
+	url = https://github.com/mayorityz/project1-serverside.git
